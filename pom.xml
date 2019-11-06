@@ -46,7 +46,7 @@
     <junit.version>4.10</junit.version>
     <logback.version>0.9.29</logback.version>
     <logbackAddOns.version>0.1-SNAPSHOT</logbackAddOns.version>
-    <args4j.version>2.0.16</args4j.version>
+    <args4j.version>2.33</args4j.version>
     <govscigraph.version>2.1.0-SNAPSHOT</govscigraph.version>
     <blueprints.version>2.1.0</blueprints.version>
     <jgit.version>1.1.0.201109151100-r</jgit.version>
